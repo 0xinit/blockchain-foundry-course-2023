@@ -1,0 +1,1 @@
+Create a proveably random smart contract lottery. Use chainlink VRF and Automation.
